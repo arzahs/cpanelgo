@@ -5,8 +5,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
-	"github.com/letsencrypt-cpanel/cpanelgo/cpanel"
+	"github.com/arzahs/cpanelgo"
+	"github.com/arzahs/cpanelgo/cpanel"
 )
 
 type WhmImpersonationApi struct {

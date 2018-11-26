@@ -3,7 +3,7 @@ package cpanel
 import (
 	"fmt"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 // This is fucking undocumented

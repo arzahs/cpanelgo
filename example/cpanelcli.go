@@ -17,9 +17,9 @@ import (
 
 	"bytes"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
-	"github.com/letsencrypt-cpanel/cpanelgo/cpanel"
-	"github.com/letsencrypt-cpanel/cpanelgo/whm"
+	"github.com/arzahs/cpanelgo"
+	"github.com/arzahs/cpanelgo/cpanel"
+	"github.com/arzahs/cpanelgo/whm"
 )
 
 var mode, hostname, username, password, accesshash, impersonate string

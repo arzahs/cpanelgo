@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type JsonApiGateway struct {

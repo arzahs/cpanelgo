@@ -1,8 +1,8 @@
 package whm
 
 import (
-	"github.com/letsencrypt-cpanel/cpanelgo"
-	"github.com/letsencrypt-cpanel/cpanelgo/cpanel"
+	"github.com/arzahs/cpanelgo"
+	"github.com/arzahs/cpanelgo/cpanel"
 )
 
 type VhostEntry struct {

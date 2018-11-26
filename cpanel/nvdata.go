@@ -3,7 +3,7 @@ package cpanel
 import (
 	"encoding/json"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type NVDataGetApiResult struct {

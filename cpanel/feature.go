@@ -1,6 +1,6 @@
 package cpanel
 
-import "github.com/letsencrypt-cpanel/cpanelgo"
+import "github.com/arzahs/cpanelgo"
 
 func (c CpanelApi) HasFeature(name string) (string, error) {
 	var out cpanelgo.BaseUAPIResponse

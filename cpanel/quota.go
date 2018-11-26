@@ -5,7 +5,7 @@ import (
 
 	"strconv"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type GetQuotaInfoApiResponse struct {

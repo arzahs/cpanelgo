@@ -1,6 +1,6 @@
 package cpanel
 
-import "github.com/letsencrypt-cpanel/cpanelgo"
+import "github.com/arzahs/cpanelgo"
 
 type MkdirApiResponse struct {
 	cpanelgo.BaseAPI2Response

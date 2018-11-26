@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type CpanelSslCertificate struct {

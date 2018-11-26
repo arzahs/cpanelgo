@@ -13,7 +13,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type LiveApiGateway struct {

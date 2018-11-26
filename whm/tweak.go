@@ -1,6 +1,6 @@
 package whm
 
-import "github.com/letsencrypt-cpanel/cpanelgo"
+import "github.com/arzahs/cpanelgo"
 
 type GetTweakSettingApiResponse struct {
 	BaseWhmApiResponse

@@ -1,6 +1,6 @@
 # cPanel api in Go
 
-[![GoDoc](https://godoc.org/github.com/letsencrypt-cpanel/cpanelgo?status.svg)](https://godoc.org/github.com/letsencrypt-cpanel/cpanelgo)
+[![GoDoc](https://godoc.org/github.com/arzahs/cpanelgo?status.svg)](https://godoc.org/github.com/arzahs/cpanelgo)
 
 ## About
 

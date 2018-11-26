@@ -3,7 +3,7 @@ package whm
 import (
 	"errors"
 
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type CreateUserSessionApiResponse struct {

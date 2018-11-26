@@ -1,7 +1,7 @@
 package cpanel
 
 import (
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type GetDomAPIResponse struct {

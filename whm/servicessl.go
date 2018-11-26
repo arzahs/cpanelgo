@@ -1,6 +1,6 @@
 package whm
 
-import "github.com/letsencrypt-cpanel/cpanelgo"
+import "github.com/arzahs/cpanelgo"
 
 func (a WhmApi) InstallServiceSslCertificate(service, crt, key, cabundle string) (BaseWhmApiResponse, error) {
 	var out BaseWhmApiResponse

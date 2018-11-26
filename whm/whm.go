@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/JonLundy/go-totp/pkg/totp"
 	"io"
 	"io/ioutil"
 	"log"
@@ -20,8 +21,7 @@ import (
 	"crypto/sha1"
 	"encoding/base32"
 
-	"github.com/JonLundy/Totp.go/totp"
-	"github.com/letsencrypt-cpanel/cpanelgo"
+	"github.com/arzahs/cpanelgo"
 )
 
 type BaseWhmApiResponse struct {
